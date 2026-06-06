@@ -1,7 +1,7 @@
 # Diabetes Risk Prediction and Health Indicator Analysis
 
 ## Overview
-This project was completed as the final project for MIS 761 and examines the relationship between various health indicators and diabetes prevalence. The objective was to leverage data analytics and machine learning techniques to identify significant risk factors and develop predictive models capable of classifying diabetes outcomes.
+This project was completed as the final project for MIS 761 and examines the relationship between various health indicators and diabetes prevalence. The objective was to leverage data analytics and machine learning techniques to identify significant risk factors and develop predictive models capable of classifying diabetes outcomes. This was a collaborative group project. My primary contributions included data preparation and transformation for visualization, as well as supporting the statistical analysis used to evaluate correlations and determine their significance.
 
 ## Objectives
 - Perform exploratory data analysis on diabetes health data
